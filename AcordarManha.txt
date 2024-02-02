@@ -1,0 +1,9 @@
+Exemplo de um algoritmo:Acordar pela manhã. 
+
+1 - Acordar 
+2 - Levantar
+3 - Ir ao banheiro
+4 - Escovar os dentes
+5 - Tomar banho
+6 - Vestir-se
+7 - Tomar café
